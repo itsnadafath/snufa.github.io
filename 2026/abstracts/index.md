@@ -43,7 +43,7 @@
 ## Poster
 
 * [Creating functional engrams by swapping synaptic weights in spiking neural networks](aaradhya-vaze-creating.md) (Aaradhya Vaze, Maayan Levy, Tim Vogels)
-* [Spike-Coding Networks Are Exactly Solvable: Periodic Firing Patterns as Eigenvectors](abel-sagodi-spike-coding.md) (William Podlaski, Ildefonso Ferreira Pica)
+* [Spike-Coding Networks Are Exactly Solvable: Periodic Firing Patterns as Eigenvectors](abel-sagodi-spike-coding.md) (Ábel Ságodi, William Podlaski, Ildefonso Ferreira Pica)
 * [A minimal model of working memory in neural systems and neuromorphic circuits](adrien-d'hollande-minimal.md) (Damien Depannemaecker, Adrien d'Hollande, Gabriele Casagrande, Jiaming Wu, Marcelo Rozenberg)
 * [Learning sensorimotor representations through active event-based foveated sensing](alejandro-rodriguez-garcia-learning.md) (Alejandro Rodriguez-Garcia, Anindya Ghosh, Arthur Aubret, Srikanth Ramaswamy, Giulia D'Angelo)
 * [The Role of Dopamine in Resolving the Speed-Accuracy Trade-Off](alex-gwyn-role.md) (Alex Gwyn O'Hare, Jonathan E. Rubin, Timothy Verstynen, Catalina Vich)
@@ -63,7 +63,7 @@
 * [Chaos as Exploration: Dopamine-Modulated Spiking Attractors That Discover How to Walk on a Real Robot](gabriel-torre-chaos.md) (Gabriel Torre, Juan Giribet, Sergio Lew)
 * [Multi-Delay-Driven Hopfield Networks: High-Capacity Sequence Memory via Global Remapping](georg-reich-multi-delay-driven.md) (Julius Rosenberg, Lilli Kiessling, Pau Vilimelis Aceituno, Matthew Cook, Georg Reich)
 * [Image generation with e-prop: Application to musical symbols.](gerard-asbert-image.md) (Gerard Asbert, Alicia Fornés, Xavier Otazu)
-* [Breaking Point, Engineered: Agents That Design, Prove, and Certify Fault-Tolerant Spiking Networks](hanah-rahman-breaking.md) (Breaking Point, Engineered: Agents That Design, Prove, and Certify Fault-Tolerant Spiking Networks)
+* [Breaking Point, Engineered: Agents That Design, Prove, and Certify Fault-Tolerant Spiking Networks](hanah-rahman-breaking.md) (Hanah Rahman)
 * [Degeneracy and unidentifiability in spiking and oscillatory neural networks: Two faces of the same coin](horacio-g-degeneracy.md) (Horacio G. Rotstein)
 * [Limits of Local Credit Assignment in Recurrent Neural Networks](jesús-andrés-limits.md) (Jesús Andrés Espinoza-Valverde, Gustavo Ramirez-Hidalgo)
 * [Role of axo-axonic synapses in Drosophila sensory processing](jiaqi-chen-role.md) (Jiaqi Chen, Daniel Han, Albert Cardona)
