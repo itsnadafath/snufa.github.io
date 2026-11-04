@@ -6,8 +6,10 @@
 
 **Program committee.** [Sacha van Albada](https://www.fz-juelich.de/profile/albada_s.van), [Jason Eshraghian](https://ncg.ucsc.edu/jason-eshraghian-bio/), [Dan Goodman](https://neural-reckoning.org), and [Friedemann Zenke](https://zenkelab.org/).
 
-<!-- **Quick links.**
-<span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://youtube.com/playlist?list=PL09WqqDbQWHEyTZPLMKEi9-RD6kax0tCR&si=Y-sJeZvIn3O062DG">YouTube playlist</a></span> -->
+**Quick links.**
+<span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://imperial-ac-uk.zoom.us/j/92526940593?pwd=ZkJU7WSSmigpnMa9fF0LhvmZmh97wx.1">Join main meeting (Zoom)</a></span>
+<span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://imperial-ac-uk.zoom.us/j/95653738090?pwd=VxYPlhrmaEnvOGBHGmcPp8Co2zeidn.1">Join poster session (Zoom)</a></span>
+<!-- <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://youtube.com/playlist?list=PL09WqqDbQWHEyTZPLMKEi9-RD6kax0tCR&si=Y-sJeZvIn3O062DG">YouTube playlist</a></span> -->
 
 ## Key information
 
