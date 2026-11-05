@@ -1,9 +1,16 @@
+---
+links:
+  - title: Preprint
+    url: https://arxiv.org/abs/2604.14096
+  - title: Paper's page
+    url: https://laurentperrinet.github.io/publication/perrinet-26/
+---
+
+
 # Chained Neural Delays for Extended Temporal Pattern Tracking
 
 **Authors:** Laurent Perrinet
                            
-
-
 **Presentation type:** Poster at [SNUFA 2026 online workshop (4-5 Nov 2026)](https://snufa.net/2026)
 
 ## Abstract
