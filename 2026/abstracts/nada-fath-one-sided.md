@@ -1,9 +1,10 @@
+https://www.researchgate.net/publication/417539074_Baseline_firing_rate_confounds_the_comparison_of_excitatory_and_inhibitory_chemogenetic_manipulation
+[SNUFA2026_poster.pdf](https://github.com/user-attachments/files/34467349/SNUFA2026_poster.pdf)
+
 # One-sided saturation in spiking neurons: the inhibitory dynamic range equals the operating point
 
 **Authors:** Nada Fath, Feng Wang, Daoshu Luo
                            
-
-
 **Presentation type:** Poster at [SNUFA 2026 online workshop (4-5 Nov 2026)](https://snufa.net/2026)
 
 ## Abstract
