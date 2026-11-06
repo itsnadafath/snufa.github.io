@@ -1,3 +1,5 @@
+[SNUFA2026_poster.pdf](https://github.com/user-attachments/files/34463065/SNUFA2026_poster.pdf)
+
 # One-sided saturation in spiking neurons: the inhibitory dynamic range equals the operating point
 
 **Authors:** Nada Fath, Feng Wang, Daoshu Luo
